@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# pyTegotaeCPG_odeint.py
+# Copyright (c) 2025 Dai Owaki <owaki@tohoku.ac.jp>
+# ver. 2025.2.11.
+
 # 必要なライブラリをインポート
 from scipy.integrate import odeint
 import numpy as np
