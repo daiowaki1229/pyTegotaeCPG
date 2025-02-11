@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 # SMDwPO.py
+# Copyright (c) 2025 Dai Owaki <owaki@tohoku.ac.jp>
+# ver. 2025.2.11.
 
 import numpy as np
 
