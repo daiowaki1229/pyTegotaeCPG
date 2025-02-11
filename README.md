@@ -3,7 +3,7 @@
 ## Overview / 概要
 This repository provides a Python simulation of a hopping robot controlled by a Tegotae-based Central Pattern Generator (CPG). The simulation includes dynamics modeling, feedback control, and visualization tools.
 
-このリポジトリは、テゴタエ(CPG)を利用したホッピングロボットの制御シミュレーションを提供します。動力学モデリング、フィードバック制御、ビジュアライザーションツールが含まれています。
+このリポジトリは、Tegotae-based CPGを利用したホッピングロボットの制御シミュレーションを提供します。動力学モデリング、フィードバック制御、ビジュアライザーションツールが含まれています。
 
 ---
 
