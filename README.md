@@ -50,6 +50,8 @@ python pyTegotaeCPG_odeint.py
 This will run the simulation and display the animation.
 
 上記のコマンドを実行すると、シミュレーションが実行され、アニメーションが表示されます。
+https://github.com/user-attachments/assets/eae5aa8c-6c30-47cf-a6c9-0e374e8e208d
+
 
 ### Run the Web App / ウェブアプリの実行
 ```bash
