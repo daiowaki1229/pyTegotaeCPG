@@ -152,8 +152,8 @@ def video(x, dt, max_t, params):
     line_y0, = plt.plot((-1, 1), (1, 1), 'k:', lw=1, alpha=0.5, animated=False)
 
     # ホッピングロボットの部品（位置・バネ）
-    position1, = plt.plot([], [], 'go', markersize=30, animated=True)
     spring, = plt.plot([], [], 'b-', lw=7.5, animated=True)
+    position1, = plt.plot([], [], 'go', markersize=30, animated=True)
 
     # ax4エリアの設定
     ax4 = fig.add_subplot(gs[1,1:3], xlim=(0, max_t), ylim=(0, 2.0))
@@ -227,7 +227,7 @@ def video(x, dt, max_t, params):
         return circle1, line10, line_force, line_feedback, line_aveh, line_2y0, bar, time_text, line_x0, line_y0, angle_phi0, spring, position1, pm1, bar2, osci10, posci10, arrow10
 
     # アニメーションの設定と実行
-    ani = animation.FuncAnimation(fig, anime, np.arange(1, len(x)), interval=dt*1.0e+3, blit=True, init_func=init)
-    # ani.save('py_PhysicalCPG_(mass0.10).mp4', writer='ffmpeg')  # アニメーションを保存（コメントアウト）
+    ani = animation.FuncAnimation(fig, anime, np.arange(1, len(x)), interval=dt*1.0e+4, blit=True, init_func=init)
+    #ani.save('pyTegotaeCPG.mp4', writer='ffmpeg')  # アニメーションを保存（コメントアウト）
 
     plt.show()  # グラフを表示
