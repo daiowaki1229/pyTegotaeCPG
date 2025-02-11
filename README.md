@@ -62,6 +62,8 @@ This will launch a web-based animation visualization.
 
 上記のコマンドを実行すると、ウェブ上でアニメーションを表示するアプリが動作します。
 
+[Tegotae-based CPG Simulation Web App](https://pytegotaecpg.streamlit.app)
+
 ---
 
 ## Required Libraries / 必要なライブラリ
