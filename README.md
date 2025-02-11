@@ -82,6 +82,13 @@ This project is inspired by Tegotae-based CPG studies and serves as an education
 
 このプロジェクトは、TEGOTAEに基づくCPG制御の研究から着想を得ており、身体性知能を理解するための教育ツールとして役立つ。
 
+## References / 参考文献
+- Dai Owaki, Takeshi Kano, Kou Nagasawa, Atsushi Tero, and Akio Ishiguro, Simple Robot Suggests Physical Interlimb Communication Is Essential for Quadruped Walking, *Journal of Royal Society Interface*, vol. 10, https://doi.org/10.1098/rsif.2012.0669 (2012)
+- Dai Owaki and Akio Ishiguro, A Quadruped Robot Exhibiting Spontaneous Gait Transitions from Walking to Trotting to Galloping, *Scientific Reports*, vol. 7:277, https://doi.org/10.1038/s41598-017-00348-9, (2017)
+- Dai Owaki, Masashi Goda, Sakiko Miyazawa, and Akio Ishiguro, A Minimal Model Describing Hexapedal Interlimb Coordination: the Tegotae-based Approach, *Front. Neurorobot.*, vol.11:29, https://doi.org/10.3389/fnbot.2017.00029 (2017)
+- Riccardo Zamboni, Dai Owaki, Mitsuhiro Hayashibe, Adaptive and Energy-Efficient Optimal Control in CPGs Through Tegotae-Based Feedback, *Frontiers in Robotics and AI*, Vol. 8, https://doi.org/10.3389/frobt.2021.632804, (2021) 
+- Dai Owaki, Shun-ya Horikiri, Jun Nishii, Akio Ishiguro, Tegotae-Based Control Produces Adaptive Inter- and Intra-limb Coordination in Bipedal Walking, *Frontiers in Neurorobotics*, Vol. 15, https://doi.org/10.3389/fnbot.2021.629595, (2021)
+
 ---
 Feel free to contribute or report any issues!
 
