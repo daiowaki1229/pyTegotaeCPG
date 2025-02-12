@@ -55,7 +55,7 @@ def TEGOTAE_FB(p, params):
     
     #TEGOTAE（手応え）関数の定義
     # T = Ni * (- sin phi_i)
-    # SpringFunc(x, params)*(-np.cos(phi)) 
+    # SpringFunc(x, params)*(-np.sin(phi)) 
     
     # TEGOTAE（手応え）フィードバックの計算
     # dT/dphi = Ni * (-cos phi_i)
